@@ -1,1 +1,1 @@
-[[ /loading.gif | height = 640px ]]
+![](https://github.com/deanban/random-css/blob/master/loading-1/loading.gif)
