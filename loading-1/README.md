@@ -1,1 +1,1 @@
-[[ loading.gif | height = 640px ]]
+[[ /loading.gif | height = 640px ]]
